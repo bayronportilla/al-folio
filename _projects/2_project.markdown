@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planetary formation
+title: Planet formation
 description:
 img: /assets/img/3.jpg
 importance: 2
