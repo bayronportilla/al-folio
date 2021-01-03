@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planet formation
-description: a project with a background image
+description: 
 img: /assets/img/3.jpg
 importance: 2
 ---

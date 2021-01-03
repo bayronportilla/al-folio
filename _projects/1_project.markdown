@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Circumplanetary disks
-description: a project with a background image
+title: Physics and chemistry of CPDs
+description: 
 img: /assets/img/12.jpg
 importance: 1
 ---
