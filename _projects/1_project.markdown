@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Physics and chemistry of CPDs
-description: 
+title: Radiative transfer modeling of planet forming regions 
+description:
 img: /assets/img/12.jpg
 importance: 1
 ---

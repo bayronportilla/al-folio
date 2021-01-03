@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Planet formation
-description: 
+title: Planetary migration
+description:
 img: /assets/img/3.jpg
 importance: 2
 ---

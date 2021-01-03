@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Orbital dynamics
-description: 
+title: Secular dynamics
+description:
 img: /assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
