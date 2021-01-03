@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Radiative transfer modeling of planet forming regions 
+title: Circumplanetary disks 
 description:
 img: /assets/img/12.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Secular dynamics
+title: planetary dynamics
 description:
 img: /assets/img/7.jpg
 redirect: https://unsplash.com
