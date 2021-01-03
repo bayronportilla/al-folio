@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics and chemistry of Circumplanetary Disks
+title: Circumplanetary disks
 description: a project with a background image
 img: /assets/img/12.jpg
 importance: 1
