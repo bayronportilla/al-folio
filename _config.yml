@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Bayron
-middle_name: 
+middle_name:
 last_name: Portilla-Revelo
 email: bportilla@astro.rug.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -62,7 +62,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: personal blog  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
